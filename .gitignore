@@ -2,3 +2,6 @@
 *.csv
 data/
 pandas_practice/data/
+# Ignore all datasets
+data/
+*.csv
