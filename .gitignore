@@ -1,0 +1,4 @@
+# Large datasets
+*.csv
+data/
+pandas_practice/data/
